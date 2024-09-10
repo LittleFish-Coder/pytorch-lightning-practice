@@ -3,3 +3,6 @@ dataset
 
 # logs folder
 lightning_logs
+
+# env
+__pycache__
