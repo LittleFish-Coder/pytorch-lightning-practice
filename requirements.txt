@@ -5,3 +5,4 @@ matplotlib
 pytorch-lightning
 tqdm
 torchmetrics
+tensorboard
