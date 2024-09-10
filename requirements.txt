@@ -7,3 +7,4 @@ tqdm
 torchmetrics
 tensorboard
 torch-tb-profiler
+deepspeed
