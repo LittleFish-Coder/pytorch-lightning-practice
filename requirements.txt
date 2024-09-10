@@ -6,3 +6,4 @@ pytorch-lightning
 tqdm
 torchmetrics
 tensorboard
+torch-tb-profiler
